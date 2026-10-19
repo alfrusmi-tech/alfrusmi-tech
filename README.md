@@ -20,14 +20,14 @@
 
 ```yaml
 name: Fathima Rusmi
-role: Engineering Undergraduate & Full-Stack Developer
+role: Engineering Undergraduate & AI/ML Enthusiast, Full-Stack Developer
 focus_areas: [Applied AI, Full-Stack Web Development, RAG Systems]
 current_focus: Building intelligent tools and scalable web architectures
 learning: [Advanced RAG, Model Deployment, Docker, CI/CD]
 hobbies: [Solving Real-World Problems, Open-Source Exploration]
 ```
 
-- 🎓 **Undergraduate:** Engineering student passionate about Software Engineering and Applied AI.
+- 🎓 **Undergraduate:** Engineering student passionate about Software Engineering and AI/ML.
 - 🔭 **Current Projects:** Actively building [GradLink](https://github.com/alfrusmi-tech/GradLink_project) and [ExpiryGuard](https://github.com/alfrusmi-tech/ExpiryGuard).
 - 🌱 **Deepening Knowledge:** Retrieval-Augmented Generation (RAG), Docker containerization, and modern cloud deployment workflows.
 - 🤝 **Collaboration:** Open to collaborating on open-source projects, full-stack applications, and AI integrations.
