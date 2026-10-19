@@ -67,26 +67,26 @@ hobbies: [Solving Real-World Problems, Open-Source Exploration]
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/alfrusmi-tech/GradLink_project">🎯 GradLink ↗</a></h4>
-      <p>AI job portal with automated CV parsing, candidate scoring, and recruiter tracking.</p>
-      <code>React</code> · <code>Node.js</code> · <code>Express</code> · <code>MongoDB</code>
+      <h4><a href="https://github.com/alfrusmi-tech/GradLink_project">🚀 GradLink_project ↗</a></h4>
+      <p>Explore project source code and implementation.</p>
+      <code>JavaScript</code>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/alfrusmi-tech/Rag-Research-Assistant">📚 RAG Research Assistant ↗</a></h4>
-      <p>Interactive PDF research assistant powered by semantic search and Gemini LLM.</p>
-      <code>Python</code> · <code>Streamlit</code> · <code>LangChain</code> · <code>Gemini</code>
+      <h4><a href="https://github.com/alfrusmi-tech/ExpiryGuard">🚀 ExpiryGuard ↗</a></h4>
+      <p>Explore project source code and implementation.</p>
+      <code>TypeScript</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/alfrusmi-tech/ExpiryGuard">📦 ExpiryGuard ↗</a></h4>
-      <p>Inventory management platform with batch tracking and real-time expiry alerts.</p>
-      <code>React</code> · <code>Spring Boot</code> · <code>PostgreSQL</code> · <code>Docker</code>
+      <h4><a href="https://github.com/alfrusmi-tech/E-Commerce-app">🚀 E-Commerce-app ↗</a></h4>
+      <p>Explore project source code and implementation.</p>
+      <code>Vue</code>
     </td>
     <td width="50%" valign="top">
-      <h4>📰 TruthLens</h4>
-      <p>Explainable fact-checking system leveraging multi-agent NLP and evidence retrieval.</p>
-      <code>Multi-Agent AI</code> · <code>NLP</code> · <code>Evidence Retrieval</code>
+      <h4><a href="https://github.com/alfrusmi-tech/Banking-System">🚀 Banking-System ↗</a></h4>
+      <p>Explore project source code and implementation.</p>
+      <code>C++</code>
     </td>
   </tr>
 </table>
