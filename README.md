@@ -1,84 +1,82 @@
-div align="center">
 
-# Hi, I'm Rusmi Fathima
+# Hi 👋, I'm Rusmi Fathima
 
-### Engineering Undergraduate · Full-Stack & AI Projects
+### Engineering Undergraduate | Full-Stack Developer | AI & ML Enthusiast
 
-Building practical web applications and exploring how AI can make them more useful.
+I'm an engineering undergraduate passionate about building practical web applications and exploring AI-powered solutions. I enjoy learning new technologies, solving problems, and turning ideas into working projects.
 
-[GitHub](https://github.com/alfrusmi-tech) · [My repositories](https://github.com/alfrusmi-tech?tab=repositories)
-
-<!-- After uploading Assets/poster.png, remove the comment markers around this block.
-<p>
-  <img src="Assets/poster.png" alt="Rusmi as a 3D developer superhero above a futuristic city" width="360">
-</p>
-For animation, change Assets/poster.png to Assets/output.gif.
--->
-
-</div>
-
-## About me
-
-I'm an engineering undergraduate interested in full-stack development, applied AI, and DevOps. I learn by building projects, solving integration problems, and improving applications step by step.
-
-- Building **GradLink**, a MERN job portal with CV analysis.
-- Developing a **RAG Research Assistant** for asking questions about PDF documents.
-- Working on **ExpiryGuard**, an inventory and expiry alert system.
-- Exploring machine learning, retrieval-augmented generation, and multi-agent news verification.
-
-## Projects
-
-| Project | What I'm building | Technologies |
-| :--- | :--- | :--- |
-| [GradLink](https://github.com/alfrusmi-tech/GradLink_project) | A job portal connecting job seekers and recruiters, with CV analysis | React, Node.js, Express, MongoDB |
-| RAG Research Assistant | A PDF question-answering tool with retrieved source references | Python, Streamlit, LangChain, Gemini, ChromaDB |
-| ExpiryGuard | Inventory management with stock and expiry alerts | React, Spring Boot, PostgreSQL, Docker |
-| TruthLens | A group project for explainable news and article verification | NLP, evidence retrieval, multi-agent AI |
-
-## Technologies I'm working with
-
-| Area | Technologies |
-| :--- | :--- |
-| Languages | JavaScript, Python, Java |
-| Frontend | React, HTML, CSS, Tailwind CSS |
-| Backend | Node.js, Express, Spring Boot |
-| Databases | MongoDB, PostgreSQL |
-| AI & data | LangChain, Gemini API, ChromaDB, scikit-learn |
-| Tools & deployment | Git, GitHub, Docker, GitHub Actions, VS Code, Vercel, Railway |
-
-## Currently learning
-
-- Improving retrieval quality and evaluation in RAG applications.
-- Building reliable APIs and connecting frontend and backend services.
-- Testing, containerization, and continuous integration.
-- Evaluating machine learning models while avoiding data leakage.
+- 🔭 **Currently working on:** GradLink and ExpiryGuard
+- 🌱 **Currently learning:** RAG, Machine Learning, Docker, and CI/CD
+- 👯 **Looking to collaborate on:** Open-source projects, web applications, and practical AI tools
+- 💬 **Ask me about:** React, JavaScript, Python, REST APIs, and my projects
+- ⚡ **Fun fact:** I enjoy learning by building projects and solving problems step by step
 
 ---
 
-<div align="center">
+## 🚀 Featured Projects
 
-**Explore my repositories to see my projects and learning progress.**
+### 🎯 GradLink — AI-Powered Job Portal
+A MERN-stack job portal connecting job seekers and recruiters, with CV analysis features.
 
-</div>
+**Tech stack:** React, Node.js, Express, MongoDB
 
-<!-- Optional additions:
-1. Add only your real LinkedIn, portfolio, and public contact links above.
-2. Link the remaining project titles once you confirm their public repository URLs.
-3. Add GitHub analytics cards only after testing their third-party image URLs.
-4. Update this README as your skills and project status change.
--->
+[View Repository](https://github.com/alfrusmi-tech/GradLink_project)
 
-<!--
-**alfrusmi-tech/alfrusmi-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📚 RAG Research Assistant
+A document question-answering application that uses retrieval-augmented generation to answer questions about PDFs with source references.
 
-Here are some ideas to get you started:
+**Tech stack:** Python, Streamlit, LangChain, Gemini, ChromaDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📦 ExpiryGuard — Inventory Management
+An inventory management system for tracking products, stock levels, batches, and expiry alerts.
+
+**Tech stack:** React, Spring Boot, PostgreSQL, Docker
+
+### 📰 TruthLens — News Verification
+A group project exploring explainable news and article verification using evidence retrieval and multi-agent AI.
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,html,css,tailwind,nodejs,express,spring,mongodb,postgres,docker,git,github,postman,vscode" alt="Technologies: Java, Python, JavaScript, React, HTML, CSS, Tailwind CSS, Node.js, Express, Spring Boot, MongoDB, PostgreSQL, Docker, Git, GitHub, Postman, and VS Code"/>
+</p>
+
+### 🤖 AI and Data Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="Python, PyTorch, and TensorFlow"/>
+</p>
+
+**Also exploring:** LangChain, Gemini API, ChromaDB, Streamlit, and scikit-learn.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alfrusmi-tech&show_icons=true&hide_border=true" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfrusmi-tech&layout=compact&hide_border=true" alt="Most used languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alfrusmi-tech&hide_border=true" alt="GitHub contribution streak"/>
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://github.com/alfrusmi-tech">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/fathima-rusmi-aa4a67395/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories.*
