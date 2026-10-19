@@ -66,58 +66,26 @@ hobbies: [Solving Real-World Problems, Open-Source Exploration]
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎯 GradLink</h3>
-      <p align="center"><b>AI-Powered Job Portal & CV Analyzer</b></p>
-      <ul>
-        <li>Full-stack MERN application connecting job seekers with recruiters.</li>
-        <li>Automated CV scoring and candidate-job matching.</li>
-        <li>Intuitive applicant tracking and recruiter management dashboard.</li>
-      </ul>
-      <p align="center">
-        <code>React</code> · <code>Node.js</code> · <code>Express</code> · <code>MongoDB</code><br/><br/>
-        <a href="https://github.com/alfrusmi-tech/GradLink_project"><b>Explore Repository →</b></a>
-      </p>
+      <h4><a href="https://github.com/alfrusmi-tech/GradLink_project">🎯 GradLink ↗</a></h4>
+      <p>AI job portal with automated CV parsing, candidate scoring, and recruiter tracking.</p>
+      <code>React</code> · <code>Node.js</code> · <code>Express</code> · <code>MongoDB</code>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📚 RAG Research Assistant</h3>
-      <p align="center"><b>Context-Aware Document Q&A</b></p>
-      <ul>
-        <li>Grounded PDF question-answering with citation and retrieval verification.</li>
-        <li>Semantic vector search using ChromaDB and LangChain.</li>
-        <li>Powered by Google Gemini API for accurate, hallucination-resistant synthesis.</li>
-      </ul>
-      <p align="center">
-        <code>Python</code> · <code>Streamlit</code> · <code>LangChain</code> · <code>ChromaDB</code><br/><br/>
-        <a href="https://github.com/alfrusmi-tech/Rag-Research-Assistant"><b>Explore Repository →</b></a>
-      </p>
+      <h4><a href="https://github.com/alfrusmi-tech/Rag-Research-Assistant">📚 RAG Research Assistant ↗</a></h4>
+      <p>Interactive PDF research assistant powered by semantic search and Gemini LLM.</p>
+      <code>Python</code> · <code>Streamlit</code> · <code>LangChain</code> · <code>Gemini</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📦 ExpiryGuard</h3>
-      <p align="center"><b>Inventory & Expiry Monitoring System</b></p>
-      <ul>
-        <li>Batch tracking and real-time alerts for impending product expiries.</li>
-        <li>Robust backend architecture using Spring Boot & PostgreSQL.</li>
-        <li>Containerized with Docker for consistent development and deployment.</li>
-      </ul>
-      <p align="center">
-        <code>React</code> · <code>Spring Boot</code> · <code>PostgreSQL</code> · <code>Docker</code><br/><br/>
-        <a href="https://github.com/alfrusmi-tech/ExpiryGuard"><b>Explore Repository →</b></a>
-      </p>
+      <h4><a href="https://github.com/alfrusmi-tech/ExpiryGuard">📦 ExpiryGuard ↗</a></h4>
+      <p>Inventory management platform with batch tracking and real-time expiry alerts.</p>
+      <code>React</code> · <code>Spring Boot</code> · <code>PostgreSQL</code> · <code>Docker</code>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📰 TruthLens</h3>
-      <p align="center"><b>Explainable News & Claim Verification</b></p>
-      <ul>
-        <li>Multi-agent AI pipeline exploring automated fact-checking.</li>
-        <li>Retrieves supporting and refuting evidence from credible sources.</li>
-        <li>Produces explainable confidence scores for transparency and reliability.</li>
-      </ul>
-      <p align="center">
-        <code>AI Agents</code> · <code>NLP</code> · <code>Evidence Retrieval</code><br/><br/>
-        <i>Collaborative Project</i>
-      </p>
+      <h4>📰 TruthLens</h4>
+      <p>Explainable fact-checking system leveraging multi-agent NLP and evidence retrieval.</p>
+      <code>Multi-Agent AI</code> · <code>NLP</code> · <code>Evidence Retrieval</code>
     </td>
   </tr>
 </table>
