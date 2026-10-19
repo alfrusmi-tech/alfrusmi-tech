@@ -63,6 +63,7 @@ hobbies: [Solving Real-World Problems, Open-Source Exploration]
 
 ### 🚀 Featured Projects
 
+<!-- RECENT_REPOS:START -->
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -89,6 +90,7 @@ hobbies: [Solving Real-World Problems, Open-Source Exploration]
     </td>
   </tr>
 </table>
+<!-- RECENT_REPOS:END -->
 
 ---
 
