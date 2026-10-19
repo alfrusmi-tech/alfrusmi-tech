@@ -1,6 +1,7 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D9488&height=180&section=header&text=Hi%20there,%20I'm%20Fathima%20Rusmi%20👋&fontSize=38&fontColor=ffffff&fontAlignY=45" width="100%"/>
+  <img src="./assets/header.svg" alt="Fathima Rusmi Banner" width="100%"/>
+  <br/><br/>
   
   <a href="https://github.com/alfrusmi-tech">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=0D9488&center=true&vCenter=true&width=500&lines=Engineering+Undergraduate;Full-Stack+Developer;AI+%26+ML+Enthusiast;Building+Intelligent+Applications" alt="Typing SVG" />
@@ -126,12 +127,12 @@ hobbies: [Solving Real-World Problems, Open-Source Exploration]
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alfrusmi-tech&show_icons=true&theme=teal&hide_border=true&title_color=0D9488&icon_color=0D9488" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfrusmi-tech&layout=compact&theme=teal&hide_border=true&title_color=0D9488" alt="Top Languages" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alfrusmi-tech&show_icons=true&bg_color=0D1117&text_color=c9d1d9&title_color=0D9488&icon_color=0D9488&hide_border=true" alt="GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfrusmi-tech&layout=compact&bg_color=0D1117&text_color=c9d1d9&title_color=0D9488&icon_color=0D9488&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=alfrusmi-tech&theme=teal&hide_border=true&stroke=0D9488&ring=0D9488&fire=0D9488" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=alfrusmi-tech&background=0D1117&border=0D1117&stroke=0D9488&ring=0D9488&fire=0D9488&currStreakLabel=0D9488&sideLabels=c9d1d9&dates=8b949e&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -150,6 +151,6 @@ hobbies: [Solving Real-World Problems, Open-Source Exploration]
 
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D9488&height=100&section=footer" width="100%"/>
-</div>
+<p align="center">
+  <i>Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</i>
+</p>
